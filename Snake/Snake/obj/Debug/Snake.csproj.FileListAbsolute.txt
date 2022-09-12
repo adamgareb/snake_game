@@ -1,0 +1,8 @@
+C:\Users\adam.hamagareb\Documents\C#\Snake game\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\adam.hamagareb\Documents\C#\Snake game\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\adam.hamagareb\Documents\C#\Snake game\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\adam.hamagareb\Documents\C#\Snake game\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\adam.hamagareb\Documents\C#\Snake game\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\adam.hamagareb\Documents\C#\Snake game\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\adam.hamagareb\Documents\C#\Snake game\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\adam.hamagareb\Documents\C#\Snake game\Snake\Snake\obj\Debug\Snake.pdb
